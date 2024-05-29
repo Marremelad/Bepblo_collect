@@ -1,2 +1,2 @@
 # Ignore sprites.
-sprites/
+__pycache__
